@@ -1,0 +1,1 @@
+Proyecto Next.js preparado para Vercel. Importar este repositorio con Framework Preset: Next.js y Root Directory: ./
